@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://lottiesdogs.co.uk/sitemap.xml
+Sitemap: https://www.laserclinicreading.co.uk/sitemap.xml
